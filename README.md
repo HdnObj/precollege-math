@@ -26,13 +26,12 @@ but with support from a worldwide community of fellow learners.
 
 # My_Progress
 
-✅ Arithmetic
-
-✅ Algebra
-
-[ ] Geometry
-
-[ ] Trigonometry
+| Topic        | Status        |
+|--------------|---------------|
+| Arithmetic   | ✅ Completed   |
+| Algebra      | ✅ Completed   |
+| Geometry     | 🟡 In Progress |
+| Trigonometry | ⚪ Not Started |
 
 # Curriculum
 
