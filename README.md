@@ -26,10 +26,10 @@ but with support from a worldwide community of fellow learners.
 
 # My_Progress
 
-[✅] Arithmetic
-[✅] Algebra
-[ ] Geometry
-[ ] Trigonometry
+- [✅] Arithmetic
+- [✅] Algebra
+- [] Geometry
+- [] Trigonometry
 
 # Curriculum
 
