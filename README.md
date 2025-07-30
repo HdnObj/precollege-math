@@ -28,10 +28,13 @@ but with support from a worldwide community of fellow learners.
 
 | Topic        | Status        |
 |--------------|---------------|
-| Arithmetic   | 🟡 In Progres    |
-| Algebra      | ⚪ Not Started   |
-| Geometry     | ⚪ Not Started   |
-| Trigonometry | ⚪ Not Started   |
+| Arithmetic   | 🟡 In Progress    |
+| Pre-Algebra      | ⚪ Not Started   |
+| Algebra 1     | ⚪ Not Started   |
+| Geometry | ⚪ Not Started   |
+| Algebra 2 | ⚪ Not Started   |
+| Trigonometry	 | ⚪ Not Started   |
+| Precalculus	 | ⚪ Not Started   |
 
 - ✅ Completed
 - 🟡 In Progress
