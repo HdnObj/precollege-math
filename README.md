@@ -28,10 +28,14 @@ but with support from a worldwide community of fellow learners.
 
 | Topic        | Status        |
 |--------------|---------------|
-| Arithmetic   | ✅ Completed   |
-| Algebra      | ✅ Completed   |
-| Geometry     | 🟡 In Progress |
-| Trigonometry | ⚪ Not Started |
+| Arithmetic   | 🟡 In Progres    |
+| Algebra      | ⚪ Not Started   |
+| Geometry     | ⚪ Not Started   |
+| Trigonometry | ⚪ Not Started   |
+
+- ✅ Completed
+- 🟡 In Progress
+- ⚪ Not Started
 
 # Curriculum
 
